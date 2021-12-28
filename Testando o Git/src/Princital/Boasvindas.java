@@ -7,7 +7,8 @@ public class Boasvindas {
 		
 		System.out.println("Hellow Word");
 		System.out.println("Olá Mundo");
-
+		System.out.println("Teste numero 2");
+		
 	}
 
 }
