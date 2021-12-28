@@ -12,6 +12,11 @@ public class Boasvindas {
 		System.out.println("Teste numero 4");
 		System.out.println("Agora eu consegui enviar meu \narquivo para o github");
 	
+		int a = 13, b = 158;
+
+
+		System.out.printf(" " + (a + b));
+		
 		
 	}
 
